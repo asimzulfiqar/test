@@ -9,7 +9,6 @@
     "function": "BlinkLED",
     "deadline": 1756362637
   },
-  ,
   {
     "cron": "* * * * * *",
     "function": "BlinkLED2",
