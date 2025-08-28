@@ -4,7 +4,6 @@
     "function": "TakePicture",
     "deadline": 1756442400
   },
-
   {
     "cron": "* * * * * *",
     "function": "BlinkLED",
